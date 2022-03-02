@@ -1,0 +1,69 @@
+Dynare++ v. 4.6.3
+
+Copyright © 2004-2011 Ondra Kamenik
+Copyright © 2019-2020 Dynare Team
+Dynare++ comes with ABSOLUTELY NO WARRANTY and is distributed under the GNU GPL,
+version 3 or later (see https://www.gnu.org/licenses/gpl.html)
+
+
+System info: Darwin 21.3.0 Darwin Kernel Version 21.3.0: Wed Jan  5 21:37:58 PST 2022; root:xnu-8019.80.24~20/RELEASE_X86_64 x86_64, processors online: 8
+
+Start time: 2022-03-02 11:21:15 +1100
+
+  ┌────╼ elapsed time (seconds)                     
+  │       ┌────╼ record unique identifier           
+  │       │     ┌────╼ load average                 
+  │       │     │    ┌────╼ available memory (MB)   
+  │       │     │    │     ┌─────╼ major faults (MB)
+  │       │     │    │     │                        
+  ╽       ╽     ╽    ╽     ╽                        
+0.00811│S00000│3.6│33.95│      │ Information on variables
+0.00818│M00001│3.6│33.95│      │   Number of endogenous:            7
+0.00821│M00002│3.6│33.95│      │   Number of exogenous:             1
+0.00822│M00003│3.6│33.95│      │   Number of static:                3
+0.00824│M00004│3.6│33.95│      │   Number of predetermined:         2
+0.00825│M00005│3.6│33.95│      │   Number of forward looking:       3
+0.00827│M00006│3.6│33.95│      │   Number of both:                  1
+0.00829│E00000│3.6│33.95│0.0195│ Information on variables
+0.00830│S00007│3.6│33.95│      │ Information on forward substitutions
+0.00831│M00008│3.6│33.95│      │   Number of affected equations:    0
+0.00833│M00009│3.6│33.95│      │   Number of substituted terms:     0
+0.00834│M00010│3.6│33.95│      │   Number of auxiliary variables:   0
+0.00835│M00011│3.6│33.95│      │   Number of new terms in the tree: 0
+0.00837│E00007│3.6│33.95│0.0000│ Information on forward substitutions
+0.00838│S00012│3.6│33.95│      │ Information on substitutions
+0.00840│M00013│3.6│33.95│      │   Number of substitutions:         0
+0.00841│E00012│3.6│33.95│0.0000│ Information on substitutions
+0.01114│S00014│3.6│33.94│      │ Non-linear solver for deterministic steady state
+0.01120│M00015│3.6│33.94│      │   Iter   lambda      residual
+0.01122│M00016│3.6│33.94│      │   ───────────────────────────
+0.01127│M00017│3.6│33.94│      │   0         N/A      0.626623
+0.01848│M00018│3.6│33.94│      │   1    1.041666     0.0969164
+0.01930│M00019│3.6│33.94│      │   2    0.793802     0.0455165
+0.01996│M00020│3.6│33.94│      │   3    0.740100     0.0232201
+0.02062│M00021│3.6│33.94│      │   4    0.912376     0.0090575
+0.02127│M00022│3.6│33.94│      │   5    1.067524   0.000464772
+0.02193│M00023│3.6│33.94│      │   6    1.000733   1.06586e-07
+0.02258│M00024│3.6│33.94│      │   7    1.000000   1.59428e-13
+0.02324│M00025│3.6│33.94│      │   8    0.996441   4.44089e-16
+0.02326│E00014│3.6│33.94│0.0352│ Non-linear solver for deterministic steady state
+0.02343│S00026│3.6│33.94│      │ Recovering first order derivatives 
+0.04376│M00027│3.6│33.94│      │   Blanchard-Kahn conditition satisfied, model stable
+0.04385│E00026│3.6│33.94│0.0938│ Recovering first order derivatives 
+0.04405│M00028│3.6│33.94│      │ Error of current approximation for shocks at sigma 0.000000 is 0.000000
+0.04409│M00029│3.6│33.94│      │ Error of current approximation for full shocks is 0.000000
+0.04429│M00030│3.6│33.94│      │ Fix point calcs: iter=1, newton_iter=1, last_newton_iter=1. Converged.
+0.04433│S00031│3.6│33.94│      │ Centralizing about fix-point.
+0.04438│E00031│3.6│33.94│0.0000│ Centralizing about fix-point.
+0.04455│S00032│3.6│33.94│      │ Performing 80 stochastic simulations for 100 periods burning 0 initial periods
+0.05781│E00032│3.6│33.89│0.0391│ Performing 80 stochastic simulations for 100 periods burning 0 initial periods
+0.05786│S00033│3.6│33.89│      │ Calculating means from the simulations.
+0.05815│E00033│3.6│33.89│0.0000│ Calculating means from the simulations.
+0.05817│S00034│3.6│33.89│      │ Calculating covariances from the simulations.
+0.06463│E00034│3.6│33.89│0.0000│ Calculating covariances from the simulations.
+0.06470│S00035│3.6│33.89│      │ Calculating IRFs against control for 1 shocks and for 100 periods
+0.06475│S00036│3.6│33.89│      │   Performing 80 IRF simulations for 100 periods; shock=0, impulse=0.010448
+0.07519│E00036│3.6│33.89│0.0000│   Performing 80 IRF simulations for 100 periods; shock=0, impulse=0.010448
+0.07523│S00037│3.6│33.89│      │   Performing 80 IRF simulations for 100 periods; shock=0, impulse=-0.010448
+0.08553│E00037│3.6│33.89│0.0000│   Performing 80 IRF simulations for 100 periods; shock=0, impulse=-0.010448
+0.08557│E00035│3.6│33.89│0.0039│ Calculating IRFs against control for 1 shocks and for 100 periods
