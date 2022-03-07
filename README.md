@@ -20,10 +20,10 @@ Table 1
 | -------- | ----------------------------------------- | ------------------------------------------------------------ | ------------ | ------------------------------------------------------- |
 | week_01  | Just-in-time Compilation: Python vs Julia | John Stachurski                                              | Feb. 16 2022 | Fred Gruen Seminar Room, Level 1, HW Arndt Building 25A |
 | week_02  | Treasury Industry Model                   | Macroeconomic Analysis and  Policy Division, Macroeconomic Group, Australian Treasury | Feb. 23 2022 | Same as above                                           |
-| week_03  | Python Environments Management                       | Aakash Choudhury                                             | Mar. 2 2022  | Same as above                                           |
+| week_03  | Python Environments Management            | Aakash Choudhury                                             | Mar. 2 2022  | Same as above                                           |
 | week_03  | Working with ``DYNARE++`` from ``Python`` | Timothy Kam                                                  | Mar. 2 2022  | Same as above                                           |
-| week_04  | TBC                                       | TBC                                                          | Mar. 9 2022  | Same as above                                           |
-| week_05  | TBC                                       | TBC                                                          | Mar. 16 2022 | Same as above                                           |
+| week_04  | TBC                                       | TBC                                                          | Mar. 8 2022  | QuantEcon Lab (Copland 1130)                            |
+| week_05  | TBC                                       | TBC                                                          | Mar. 15 2022 | Same as above                                           |
 |          |                                           |                                                              |              |                                                         |
 
 
