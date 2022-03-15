@@ -24,7 +24,7 @@ Table 1
 | week_03  | Working with ``DYNARE++`` from ``Python``                    | Timothy Kam                                                  | Mar. 2 2022   | Same as above                                           |
 | week_04  | Introduction to JAX                                          | John Stachurski                                              | Mar. 8 2022   | QuantEcon Lab (Copland 1130)                            |
 | week_05  | [Dynamic Programming on the GPU via JAX](https://aus01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fnotes.quantecon.org%2Fsubmission%2F622ed4daf57192000f918c61&data=04%7C01%7CShu.Hu%40anu.edu.au%7C86e36bd0ab6744b3f7fc08da063c9a7a%7Ce37d725cab5c46249ae5f0533e486437%7C0%7C0%7C637829154606362689%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=SmUULR2MVg15iV0Wgx4xxyv8thVrOgDYgL7JsIhxSM4%3D&reserved=0) | John Stachurski                                              | Mar. 15 2022  | Same as above                                           |
-| week_06  | GitHub Classroom and its Applications                        | Fedor Iskhakov                                               | Mar. 22 2022  | Same as above                                           |
+| week_06  | Use of GitHub Classroom in Computational Economics course                        | Fedor Iskhakov                                               | Mar. 22 2022  | Same as above                                           |
 | week_07  |                                                              |                                                              | Mar. 29 2022  | Same as above                                           |
 | week_08  |                                                              |                                                              | April 5 2022  | Same as above                                           |
 | week_09  |                                                              |                                                              | April 12 2022 | Same as above                                           |
@@ -55,5 +55,12 @@ Table 3
 | automatic differentiation                     |
 | approximation methods, including sparse grids |
 | (deep) machine learning                       |
-|                                               |
+| cloud based teaching environments             |
+| automatic grading                             |
+| unit tests and testing for economic modelling |
+| continuous integration in economics           |
+
+
+
+
 
