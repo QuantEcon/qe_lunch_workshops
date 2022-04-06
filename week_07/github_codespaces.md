@@ -13,7 +13,7 @@ everyone using the project to have repeatable codespace configuration and develo
 
 ## Enabling Github Codespaces for your project
 
-- Github organization account should either be using (Github Team)[https://github.com/team] or (Github Enterprise Cloud)[https://github.com/enterprise].
+- Github organization account should either be using [Github Team](https://github.com/team) or [Github Enterprise Cloud](https://github.com/enterprise).
 - Enable Codespaces from the settings for members of the organization, and set a spending limit to activate it.
 
 ## Accessing Codespaces
