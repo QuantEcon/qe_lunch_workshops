@@ -1,20 +1,25 @@
 # qe_lunch_workshops
 
-
+### Introduction
 
 The QuantEcon lunch workshops are specified with the following three tables:
 
 - Table 1 schedules the topic(s), speaker(s), date and venue for the seminar in ``week_xx``,
 - Table 2 lists volunteer speakers, and
-- Table 3 shows potential topics of interest.
+- Table 3 shows interested topics ``xxx`` linking to corresponding issues ``topic: xxx`` in the Issue Tracker.
 
 All presentation materials corresponding to ``week_xx`` under the column ``Week No.`` of Table 1 are stored either in the same name folder above (there will be separate sub-folders after their names inside the folder ``week_xx`` if there is over one speaker) or the corresponding link under column ``Topics`` of Table 1.
 
-If you are interested in **becoming a volunteer speaker** or would love to **hear some topic** in the coming workshops, then do not hesitate to contact Shu Hu by email ([shu.hu@anu.edu.au](mailto:shu.hu@anu.edu.au)).
+### Contribution
 
+If you would like to **becoming a volunteer speaker** of an existing topic listed in Table 3 or to **hear some new topic ``xxx``** in the coming workshops, then you can either
 
+- email to [shu.hu@anu.edu.au](mailto:shu.hu@anu.edu.au) directly, or
+- create an issue under a title ``topic: xxx`` or participate in the discussion of an existing issue in the [Issue Tracker](https://github.com/QuantEcon/qe_lunch_workshops/issues) of the current repository.
 
-Table 1
+### Tables
+
+##### Table 1
 
 | Week No. | Topics                                                       | Speakers                                                     | Date          | Venue                                                   |
 | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------- | ------------------------------------------------------- |
@@ -28,15 +33,19 @@ Table 1
 | week_07  | [Writing Good Code](https://python-programming.quantecon.org/writing_good_code.html) | John Stachurski                                              | Mar. 29 2022  | Same as above                                           |
 | week_07  | Introduction to GitHub Codespaces                            | Aakash Choudhury                                             | Mar. 29 2022  | Same as above                                           |
 | week_08  | Visualising Input-Output Networks Using US Data and ``Networkx`` | Shu Hu                                                       | April 5 2022  | Same as above                                           |
-| week_09  | Introduction to Artificial Neural Networks                   | Aakash Choundhury                                            | April 12 2022 | Same as above                                           |
-| week_10  |                                                              |                                                              | April 18 2022 | Same as above                                           |
-| week_11  |                                                              |                                                              | April 26 2022 |                                                         |
-| week_12  |                                                              |                                                              |               |                                                         |
+| week_09  | Introduction to Artificial Neural Networks                   | Aakash Choudhury                                             | April 12 2022 | Same as above                                           |
+| week_10  | Nowcasting GDP with Google Trends                            | Aakash Choudhury, Shu Hu                                     | April 18 2022 | Same as above                                           |
+| week_11  | Land Offers and Fiscal Competition between City Governments in China | Wending Liu                                                  | April 26 2022 | Fred Gruen Seminar Room, Level 1, HW Arndt Building 25A |
+| week_12  |                                                              |                                                              | May 3 2022    | QuantEcon Lab (Copland 1130)                            |
+| week_13  |                                                              |                                                              | May 10 2022   | Same as above                                           |
+| week_14  |                                                              |                                                              | May 17 2022   | Same as above                                           |
+| week_15  |                                                              |                                                              | May 24 2022   |                                                         |
+| week_16  |                                                              |                                                              | May 31 2022   |                                                         |
 |          |                                                              |                                                              |               |                                                         |
 
 
 
-Table 2
+##### Table 2
 
 | Volunteer Speakers                                           |
 | ------------------------------------------------------------ |
@@ -45,12 +54,14 @@ Table 2
 | [Aakash Choudhury](https://github.com/AakashGfude)           |
 | [Timothy Kam](https://phantomachine.github.io/)              |
 | [Fedor Iskhakov](http://fedor.iskh.me/)                      |
-| [Shu Hu](https://shu-hu.com/)                                |
+| [Shu Hu](https://github.com/shlff)                           |
+| [Wending Liu](https://github.com/wendingliu)                 |
+|                                                              |
 |                                                              |
 
 
 
-Table 3
+##### Table 3
 
 | Topics of Interest                            |
 | --------------------------------------------- |
@@ -63,6 +74,7 @@ Table 3
 | automatic grading                             |
 | unit tests and testing for economic modelling |
 | continuous integration in economics           |
+|                                               |
 |                                               |
 
 
