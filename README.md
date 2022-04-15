@@ -34,8 +34,8 @@ If you would like to **becoming a volunteer speaker** of an existing topic liste
 | week_07  | Introduction to GitHub Codespaces                            | Aakash Choudhury                                             | Mar. 29 2022  | Same as above                                           |
 | week_08  | Visualising Input-Output Networks Using US Data and ``Networkx`` | Shu Hu                                                       | April 5 2022  | Same as above                                           |
 | week_09  | Introduction to Artificial Neural Networks                   | Aakash Choudhury                                             | April 12 2022 | Same as above                                           |
-| week_10  | Nowcasting GDP with Google Trends                            | Aakash Choudhury, Shu Hu                                     | April 18 2022 | Same as above                                           |
-| week_11  | Land Offers and Fiscal Competition between City Governments in China | Wending Liu                                                  | April 26 2022 | Fred Gruen Seminar Room, Level 1, HW Arndt Building 25A |
+| week_10  | The unique Equilibrium of an Interactive Network             | Chien Yeh                                                    | April 18 2022 | Fred Gruen Seminar Room, Level 1, HW Arndt Building 25A |
+| week_11  | Land Offers and Fiscal Competition between City Governments in China | Wending Liu                                                  | April 26 2022 | Same as above                                           |
 | week_12  |                                                              |                                                              | May 3 2022    | QuantEcon Lab (Copland 1130)                            |
 | week_13  |                                                              |                                                              | May 10 2022   | Same as above                                           |
 | week_14  |                                                              |                                                              | May 17 2022   | Same as above                                           |
@@ -55,6 +55,7 @@ If you would like to **becoming a volunteer speaker** of an existing topic liste
 | [Timothy Kam](https://phantomachine.github.io/)              |
 | [Fedor Iskhakov](http://fedor.iskh.me/)                      |
 | [Shu Hu](https://github.com/shlff)                           |
+| [Chien Yeh](https://github.com/chien-y)                      |
 | [Wending Liu](https://github.com/wendingliu)                 |
 |                                                              |
 |                                                              |
