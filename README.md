@@ -37,7 +37,7 @@ If you would like to **becoming a volunteer speaker** of an existing topic liste
 | week_10  | The unique Equilibrium of an Interactive Network             | Chien Yeh                                                    | April 18 2022 | Fred Gruen Seminar Room, Level 1, HW Arndt Building 25A |
 | week_11  | Land Offers and Fiscal Competition between City Governments in China | Wending Liu                                                  | April 26 2022 | Same as above                                           |
 | week_12  | Tracking Real-time Economic Activities with Google Trends and Neural Networks | Aakash Choudhury, Shu Hu                                     | May 3 2022    | QuantEcon Lab (Copland 1130)                            |
-| week_13  |                                                              |                                                              | May 10 2022   | Same as above                                           |
+| week_13  | Introduction to Bayesian Networks                            | Nikolai Chow                                                  | May 10 2022   | Same as above                                           |
 | week_14  |                                                              |                                                              | May 17 2022   | Same as above                                           |
 | week_15  |                                                              |                                                              | May 24 2022   |                                                         |
 | week_16  |                                                              |                                                              | May 31 2022   |                                                         |
@@ -57,7 +57,7 @@ If you would like to **becoming a volunteer speaker** of an existing topic liste
 | [Shu Hu](https://github.com/shlff)                           |
 | [Chien Yeh](https://github.com/chien-y)                      |
 | [Wending Liu](https://github.com/wendingliu)                 |
-|                                                              |
+| [Nikolai Chow](https://rse.anu.edu.au/about/staff-directory/sheung-chow) |
 |                                                              |
 
 
