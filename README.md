@@ -37,10 +37,13 @@ If you would like to **becoming a volunteer speaker** of an existing topic liste
 | week_10  | The unique Equilibrium of an Interactive Network             | Chien Yeh                                                    | April 18 2022 | Fred Gruen Seminar Room, Level 1, HW Arndt Building 25A |
 | week_11  | Land Offers and Fiscal Competition between City Governments in China | Wending Liu                                                  | April 26 2022 | Same as above                                           |
 | week_12  | Tracking Real-time Economic Activities with Google Trends and Neural Networks | Aakash Choudhury, Shu Hu                                     | May 3 2022    | QuantEcon Lab (Copland 1130)                            |
-| week_13  | Introduction to Bayesian Networks                            | Nikolai Chow                                                  | May 10 2022   | Same as above                                           |
-| week_14  |                                                              |                                                              | May 17 2022   | Same as above                                           |
-| week_15  |                                                              |                                                              | May 24 2022   |                                                         |
-| week_16  |                                                              |                                                              | May 31 2022   |                                                         |
+| week_13  | Introduction to Bayesian Networks                            | Nikolai Chow                                                 | May 10 2022   | Same as above                                           |
+| week_14  | Simple Search Methods for Finding a Nash Equilibrium         | Wending Liu                                                  | May 17 2022   | Same as above                                           |
+| week_15  | Automatic Differentiation                                    | Shu Hu                                                       | May 24 2022   | Same as above                                           |
+| week_16  | Decomposable Splits, Coherent Beliefs, and the Ex Ante Optimality of Consistent Plans | Jingni Yang                                                  | May 31 2022   | Same as above                                           |
+| week_17  |                                                              |                                                              | June 7 2022   | Same as above                                           |
+| week_18  |                                                              |                                                              | June 14 2022  |                                                         |
+| week_19  |                                                              |                                                              | June 21 2022  |                                                         |
 |          |                                                              |                                                              |               |                                                         |
 
 
@@ -58,6 +61,7 @@ If you would like to **becoming a volunteer speaker** of an existing topic liste
 | [Chien Yeh](https://github.com/chien-y)                      |
 | [Wending Liu](https://github.com/wendingliu)                 |
 | [Nikolai Chow](https://rse.anu.edu.au/about/staff-directory/sheung-chow) |
+| [Jingni Yang](https://sites.google.com/site/jingniyangorange/home) |
 |                                                              |
 
 
