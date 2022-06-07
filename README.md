@@ -10,12 +10,7 @@ The QuantEcon lunch workshops are specified with the following three tables:
 
 All presentation materials corresponding to ``week_xx`` under the column ``Week No.`` of Table 1 are stored either in the same name folder above (there will be separate sub-folders after their names inside the folder ``week_xx`` if there is over one speaker) or the corresponding link under column ``Topics`` of Table 1.
 
-### Contribution
-
-If you would like to **becoming a volunteer speaker** of an existing topic listed in Table 3 or to **hear some new topic ``xxx``** in the coming workshops, then you can either
-
-- email to [shu.hu@anu.edu.au](mailto:shu.hu@anu.edu.au) directly, or
-- create an issue under a title ``topic: xxx`` or participate in the discussion of an existing issue in the [Issue Tracker](https://github.com/QuantEcon/qe_lunch_workshops/issues) of the current repository.
+Email Shu Hu ([shu.hu@anu.edu.au](mailto:shu.hu@anu.edu.au)) if you are interested in hearing or giving a talk (20-55 minutes) related to any topics of computational economics.
 
 ### Tables
 
@@ -40,10 +35,16 @@ If you would like to **becoming a volunteer speaker** of an existing topic liste
 | week_13  | Introduction to Bayesian Networks                            | Nikolai Chow                                                 | May 10 2022   | Same as above                                           |
 | week_14  | Simple Search Methods for Finding a Nash Equilibrium         | Wending Liu                                                  | May 17 2022   | Same as above                                           |
 | week_15  | Automatic Differentiation                                    | Shu Hu                                                       | May 24 2022   | Same as above                                           |
-| week_16  | Decision Under Informational Imprecision | Jingni Yang                                                  | May 31 2022   | Same as above                                           |
-| week_17  |                                                              |                                                              | June 7 2022   | Same as above                                           |
-| week_18  |                                                              |                                                              | June 14 2022  |                                                         |
-| week_19  |                                                              |                                                              | June 21 2022  |                                                         |
+| week_16  | Decision Under Informational Imprecision                     | Jingni Yang                                                  | May 31 2022   | Same as above                                           |
+| week_17  | Postponed                                                    | Postponed                                                    | June 7 2022   | Same as above                                           |
+| week_18  |                                                              |                                                              | June 14 2022  | Same as above                                           |
+| week_19  |                                                              |                                                              | June 21 2022  | Same as above                                           |
+| week_20  |                                                              |                                                              | June 28 2022  | Same as above                                           |
+| week_21  |                                                              |                                                              | July 5 2022   | Same as above                                           |
+| week_22  |                                                              |                                                              | July 12 2022  | Same as above                                           |
+| week_23  |                                                              |                                                              | July 19 2022  | Same as above                                           |
+| week_24  |                                                              |                                                              | July 26 2022  | Same as above                                           |
+| week_25  |                                                              |                                                              | August 5 2022 | Same as above                                           |
 |          |                                                              |                                                              |               |                                                         |
 
 
