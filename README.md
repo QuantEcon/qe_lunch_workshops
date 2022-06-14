@@ -38,8 +38,8 @@ Email Shu Hu ([shu.hu@anu.edu.au](mailto:shu.hu@anu.edu.au)) if you are interest
 | week_16  | Decision Under Informational Imprecision                     | Jingni Yang                                                  | May 31 2022   | Same as above                                           |
 | week_17  | Postponed                                                    | Postponed                                                    | June 7 2022   | Same as above                                           |
 | week_18  | Algorithms for Solving the Shortest Path Problem             | Shu Hu                                                       | June 14 2022  | Same as above                                           |
-| week_19  |                                                              |                                                              | June 21 2022  | Same as above                                           |
-| week_20  |                                                              |                                                              | June 28 2022  | Same as above                                           |
+| week_19  | Parallel Programming in Python                               | Aakash Choudhury                                             | June 21 2022  | Same as above                                           |
+| week_20  | Programming in R                                             | Zeming Wang                                                  | June 28 2022  | Same as above                                           |
 | week_21  |                                                              |                                                              | July 5 2022   | Same as above                                           |
 | week_22  |                                                              |                                                              | July 12 2022  | Same as above                                           |
 | week_23  |                                                              |                                                              | July 19 2022  | Same as above                                           |
@@ -63,6 +63,7 @@ Email Shu Hu ([shu.hu@anu.edu.au](mailto:shu.hu@anu.edu.au)) if you are interest
 | [Wending Liu](https://github.com/wendingliu)                 |
 | [Nikolai Chow](https://rse.anu.edu.au/about/staff-directory/sheung-chow) |
 | [Jingni Yang](https://sites.google.com/site/jingniyangorange/home) |
+| [Zeming Wang](https://rse.anu.edu.au/about/staff-directory/zeming-wang) |
 |                                                              |
 
 
