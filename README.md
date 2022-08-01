@@ -44,13 +44,18 @@ Email Shu Hu ([shu.hu@anu.edu.au](mailto:shu.hu@anu.edu.au)) if you are interest
 | week_22  | Parallel Programming in Python with ``dask`` and ``coiled``  | Aakash Choudhury                                             | July 12 2022      | Same as above                                           |
 | week_23  | Postponed                                                    | Postponed                                                    | July 19 2022      | Same as above                                           |
 | week_24  | Postponed                                                    | Postponed                                                    | July 26 2022      | Same as above                                           |
-| week_25  | Using linear programming to solve an optimization problem with stochastic dominance constraints | Nikolai Chow                                                 | August 2 2022     | Same as above                                           |
-| week_26  | Distributed Computing                                        | Aakash Choudhury                                             | August 9 2022     | Same as above                                           |
-| week_27  |                                                              |                                                              | August 16 2022    | Same as above                                           |
-| week_28  | Singular Value Decomposition                                 | Shu Hu                                                       | August 23 2022    | Same as above                                           |
+| week_25  | Postponed                                                    | Postponed                                                    | August 2 2022     | Same as above                                           |
+| week_26  | Postponed                                                    | Postponed                                                    | August 9 2022     | Same as above                                           |
+| week_27  | Using linear programming to solve an optimization problem with stochastic dominance constraints | Nikolai Chow                                                 | August 16 2022    | Same as above                                           |
+| week_28  | Distributed Computing                                        | Aakash Choudhury                                             | August 23 2022    | Same as above                                           |
 | week_29  |                                                              |                                                              | August 30 2022    | Same as above                                           |
-| week_30  |                                                              |                                                              | September 6 2022  | Same as above                                           |
-| week_31  |                                                              |                                                              | September 13 2022 | Same as above                                           |
+| week_30  | Singular Value Decomposition                                 | Shu Hu                                                       | September 6 2022  | Same as above                                           |
+| week_31  |                                                              | Wending Liu                                                  | September 13 2022 | Same as above                                           |
+| week_32  |                                                              |                                                              | September 20 2022 | Same as above                                           |
+| week_33  |                                                              |                                                              | September 27 2022 | Same as above                                           |
+| week_34  |                                                              |                                                              | October 4 2022    | Same as above                                           |
+| week_35  |                                                              |                                                              | October 11 2022   | Same as above                                           |
+| week_36  |                                                              |                                                              | October 18 2022   | Same as above                                           |
 |          |                                                              |                                                              |                   |                                                         |
 
 
