@@ -48,7 +48,7 @@ Email Shu Hu ([shu.hu@anu.edu.au](mailto:shu.hu@anu.edu.au)) if you are interest
 | week_26  | Postponed                                                    | Postponed                                                    | August 9 2022     | Same as above                                           |
 | week_27  | Using linear programming to solve an optimization problem with stochastic dominance constraints | Nikolai Chow                                                 | August 16 2022    | Same as above                                           |
 | week_28  | Distributed Computing                                        | Aakash Choudhury                                             | August 23 2022    | Same as above                                           |
-| week_29  |                                                              |                                                              | August 30 2022    | Same as above                                           |
+| week_29  | Dynamic Discrete-continuous Choices of the Australians in their Superannuation Accounts | Akshay Shanker                                               | August 30 2022    | Same as above                                           |
 | week_30  | Singular Value Decomposition                                 | Shu Hu                                                       | September 6 2022  | Same as above                                           |
 | week_31  |                                                              | Wending Liu                                                  | September 13 2022 | Same as above                                           |
 | week_32  |                                                              |                                                              | September 20 2022 | Same as above                                           |
@@ -75,6 +75,7 @@ Email Shu Hu ([shu.hu@anu.edu.au](mailto:shu.hu@anu.edu.au)) if you are interest
 | [Nikolai Chow](https://rse.anu.edu.au/about/staff-directory/sheung-chow) |
 | [Jingni Yang](https://sites.google.com/site/jingniyangorange/home) |
 | [Zeming Wang](https://rse.anu.edu.au/about/staff-directory/zeming-wang) |
+| [Akshay Shanker](https://github.com/akshayshanker)           |
 |                                                              |
 
 
