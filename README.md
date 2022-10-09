@@ -54,14 +54,20 @@ Email Shu Hu ([shu.hu@anu.edu.au](mailto:shu.hu@anu.edu.au)) if you are interest
 | week_32  | Postponed                                                    | Postponed                                                    | September 20 2022 | Same as above                                           |
 | week_33  | Introduction to Simulated Method of Moment                   | Wending Liu                                                  | September 27 2022 | Same as above                                           |
 | week_34  | Postponed                                                    | Postponed                                                    | October 4 2022    | Same as above                                           |
-| week_35  | Introduction to Singular Value Decomposition                 | Shu Hu                                                       | October 11 2022   | Same as above                                           |
+| week_35  | An Introduction to Algorithms for Computing Matrix Multiplication: Naive vs Strassen | Shu Hu                                                       | October 11 2022   | Same as above                                           |
 | week_36  |                                                              | Dan Liu                                                      | October 18 2022   | Same as above                                           |
 | week_37  | Fortran to Phyton                                            | Jiu Lian                                                     | October 25 2022   | Same as above                                           |
 | week_38  |                                                              |                                                              | November 1 2022   | Same as above                                           |
 | week_39  |                                                              |                                                              | November 8 2022   | Same as above                                           |
-| week_40  |                                                              |                                                              | November 15 2022  | Same as above                                           |
+| week_40  | Discovering Faster Matrix Multiplication Algorithms with [AlphaTensor](https://github.com/deepmind/alphatensor) | Shu Hu                                                       | November 15 2022  | Same as above                                           |
 | week_41  |                                                              |                                                              | November 22 2022  | Same as above                                           |
 | week_42  |                                                              |                                                              | November 29 2022  | Same as above                                           |
+| week_43  |                                                              |                                                              |                   |                                                         |
+| week_44  |                                                              |                                                              |                   |                                                         |
+| week_45  |                                                              |                                                              |                   |                                                         |
+| week_46  |                                                              |                                                              |                   |                                                         |
+| week_47  |                                                              |                                                              |                   |                                                         |
+| week_48  |                                                              |                                                              |                   |                                                         |
 |          |                                                              |                                                              |                   |                                                         |
 
 
