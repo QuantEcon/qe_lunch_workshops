@@ -58,7 +58,7 @@ Email Shu Hu ([shu.hu@anu.edu.au](mailto:shu.hu@anu.edu.au)) if you are interest
 | week_36  |                                                              | Dan Liu                                                      | October 18 2022   | Same as above                                           |
 | week_37  | Fortran to Phyton                                            | Jiu Lian                                                     | October 25 2022   | Same as above                                           |
 | week_38  |                                                              | Aakash Choudhury                                             | November 1 2022   | Same as above                                           |
-| week_39  |                                                              |                                                              | November 8 2022   | Same as above                                           |
+| week_39  | Multidimensional matching and labor market complementarity   | Esben Scriver Andersen                                       | November 10 2022  | Same as above                                           |
 | week_40  |                                                              |                                                              | November 15 2022  | Same as above                                           |
 | week_41  | Discovering Faster Matrix Multiplication Algorithms with Artificial Intelligence: [AlphaTensor](https://github.com/deepmind/alphatensor) | Shu Hu                                                       | November 22 2022  | Same as above                                           |
 | week_42  |                                                              |                                                              | November 29 2022  | Same as above                                           |
@@ -82,6 +82,7 @@ Email Shu Hu ([shu.hu@anu.edu.au](mailto:shu.hu@anu.edu.au)) if you are interest
 | [Jingni Yang](https://sites.google.com/site/jingniyangorange/home) |
 | [Zeming Wang](https://rse.anu.edu.au/about/staff-directory/zeming-wang) |
 | [Akshay Shanker](https://github.com/akshayshanker)           |
+| [Esben Scriver Andersen](https://cbe.anu.edu.au/about/staff-directory/esben-scriver-andersen) |
 |                                                              |
 
 
