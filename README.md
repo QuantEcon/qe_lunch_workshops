@@ -60,7 +60,7 @@ Email Shu Hu ([shu.hu@anu.edu.au](mailto:shu.hu@anu.edu.au)) if you are interest
 | week_38  | TBC                                                          | TBC                                                          | November 1 2022   | Same as above                                           |
 | week_39  | Multidimensional matching and labor market complementarity   | Esben Scriver Andersen                                       | November 10 2022  | Same as above                                           |
 | week_40  | TBC                                                          | TBC                                                          | November 15 2022  | Same as above                                           |
-| week_41  | Discovering Faster Matrix Multiplication Algorithms with Artificial Intelligence: [AlphaTensor](https://github.com/deepmind/alphatensor) | Shu Hu                                                       | November 22 2022  | Same as above                                           |
+| week_41  | An Introduction to Tauchen Method                            | Shu Hu                                                       | November 22 2022  | Same as above                                           |
 | week_42  |                                                              |                                                              | November 29 2022  | Same as above                                           |
 |          |                                                              |                                                              |                   |                                                         |
 
