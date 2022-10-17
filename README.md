@@ -61,7 +61,12 @@ Email Shu Hu ([shu.hu@anu.edu.au](mailto:shu.hu@anu.edu.au)) if you are interest
 | week_39  | Multidimensional matching and labor market complementarity   | Esben Scriver Andersen                                       | November 10 2022  | Fred Gruen Seminar Room, Level 1, HW Arndt Building 25A |
 | week_40  | An Introduction to Tauchen Method                            | Shu Hu                                                       | November 15 2022  | QuantEcon Lab (Copland 1130)                            |
 | week_41  | TBC                                                          | TBC                                                          | November 22 2022  | Same as above                                           |
-| week_42  |                                                              |                                                              | November 29 2022  | Same as above                                           |
+| week_42  | TBC                                                          | TBC                                                          | November 29 2022  | Same as above                                           |
+| week_43  | TBC                                                          | TBC                                                          |                   |                                                         |
+| week_44  | TBC                                                          | TBC                                                          |                   |                                                         |
+| week_45  | TBC                                                          | TBC                                                          |                   |                                                         |
+| week_46  | TBC                                                          | TBC                                                          |                   |                                                         |
+| week_47  | TBC                                                          | TBC                                                          |                   |                                                         |
 |          |                                                              |                                                              |                   |                                                         |
 
 
