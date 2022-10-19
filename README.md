@@ -59,14 +59,10 @@ Email Shu Hu ([shu.hu@anu.edu.au](mailto:shu.hu@anu.edu.au)) if you are interest
 | week_37  | Fair Risk Aggregation                                        | Jingni Yang                                                  | October 25 2022   | Same as above                                           |
 | week_38  | TBC                                                          | Aakash Choudhury                                             | November 1 2022   | Same as above                                           |
 | week_39  | Multidimensional matching and labor market complementarity   | Esben Scriver Andersen                                       | November 10 2022  | Fred Gruen Seminar Room, Level 1, HW Arndt Building 25A |
-| week_40  | TBC                                                          | Shu Hu                                                       | November 15 2022  | QuantEcon Lab (Copland 1130)                            |
-| week_41  | TBC                                                          | TBC                                                          | November 22 2022  | Same as above                                           |
-| week_42  | TBC                                                          | TBC                                                          | November 29 2022  | Same as above                                           |
-| week_43  | TBC                                                          | TBC                                                          |                   |                                                         |
-| week_44  | TBC                                                          | TBC                                                          |                   |                                                         |
-| week_45  | TBC                                                          | TBC                                                          |                   |                                                         |
-| week_46  | TBC                                                          | TBC                                                          |                   |                                                         |
-| week_47  | TBC                                                          | TBC                                                          |                   |                                                         |
+| week_40  | TBC                                                          | TBC                                                          | November 15 2022  | QuantEcon Lab (Copland 1130)                            |
+| week_41  | A Mostly Harmless Introduction to Reinforcement Learning     | Shu Hu                                                       | November 22 2022  | Same as above                                           |
+| week_42  | Q learning                                                   | Dan Liu                                                      | November 29 2022  | Same as above                                           |
+| week_43  | TBC                                                          | TBC                                                          | December 6 2022   | Same as above                                           |
 |          |                                                              |                                                              |                   |                                                         |
 
 
@@ -105,7 +101,8 @@ Email Shu Hu ([shu.hu@anu.edu.au](mailto:shu.hu@anu.edu.au)) if you are interest
 | automatic grading                             |
 | unit tests and testing for economic modelling |
 | continuous integration in economics           |
-|                                               |
+| reinforcement learning                        |
+| q learning                                    |
 |                                               |
 
 
