@@ -58,11 +58,11 @@ Email Shu Hu ([shu.hu@anu.edu.au](mailto:shu.hu@anu.edu.au)) if you are interest
 | week_36  | Spite is Contagious in Dynamic Networks                      | Dan Liu                                                      | October 18 2022   | Same as above                                           |
 | week_37  | Fair Risk Aggregation                                        | Jingni Yang                                                  | October 25 2022   | Same as above                                           |
 | week_38  | TBC                                                          | Aakash Choudhury                                             | November 1 2022   | Same as above                                           |
+| Week_39  | An Introduction to National Computational Infrastructure     | Jingbo Wang                                                  | November 8 2022   | Same as above                                           |
 | week_39  | Multidimensional matching and labor market complementarity   | Esben Scriver Andersen                                       | November 10 2022  | Fred Gruen Seminar Room, Level 1, HW Arndt Building 25A |
-| week_40  | TBC                                                          | TBC                                                          | November 15 2022  | QuantEcon Lab (Copland 1130)                            |
-| week_41  | A Mostly Harmless Introduction to `JAX` and its Application in Reinforcement Learning | Shu Hu                                                       | November 22 2022  | Same as above                                           |
+| week_40  | An introduction to GPU computing with Python                 | John Stachurski                                              | November 15 2022  | QuantEcon Lab (Copland 1130)                            |
+| week_41  | When `JAX` Meets Reinforcement Learning                      | Shu Hu                                                       | November 22 2022  | Same as above                                           |
 | week_42  | Q learning                                                   | Dan Liu                                                      | November 29 2022  | Same as above                                           |
-| week_43  | TBC                                                          | TBC                                                          | December 6 2022   | Same as above                                           |
 |          |                                                              |                                                              |                   |                                                         |
 
 
@@ -84,6 +84,7 @@ Email Shu Hu ([shu.hu@anu.edu.au](mailto:shu.hu@anu.edu.au)) if you are interest
 | [Zeming Wang](https://rse.anu.edu.au/about/staff-directory/zeming-wang) |
 | [Akshay Shanker](https://github.com/akshayshanker)           |
 | [Esben Scriver Andersen](https://cbe.anu.edu.au/about/staff-directory/esben-scriver-andersen) |
+| [Jingbo Wang](https://nci.org.au/research/people/dr-jingbo-wang) |
 |                                                              |
 
 
