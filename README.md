@@ -57,7 +57,7 @@ Email Shu Hu ([shu.hu@anu.edu.au](mailto:shu.hu@anu.edu.au)) if you are interest
 | week_35  | [Discovering Faster Matrix Multiplication Algorithms with Human Intelligence: Naive, Strassen and What's the Next?](https://notes.quantecon.org/submission/6344b313f0ea7b0011a1f48a) | Shu Hu                                                       | October 11 2022   | Same as above                                           |
 | week_36  | Spite is Contagious in Dynamic Networks                      | Dan Liu                                                      | October 18 2022   | Same as above                                           |
 | week_37  | Fair Risk Aggregation                                        | Jingni Yang                                                  | October 25 2022   | Same as above                                           |
-| week_38  | TBC                                                          | Aakash Choudhury                                             | November 1 2022   | Same as above                                           |
+| week_38  | Multiprocessing in Python and it's Application               | Aakash Choudhury, Humphrey Yang                              | November 1 2022   | Same as above                                           |
 | Week_39  | An Introduction to National Computational Infrastructure     | Jingbo Wang                                                  | November 8 2022   | Same as above                                           |
 | week_39  | Multidimensional Matching and Labor Market Complementarity   | Esben Scriver Andersen                                       | November 10 2022  | Fred Gruen Seminar Room, Level 1, HW Arndt Building 25A |
 | week_40  | An Introduction to GPU Computing with Python                 | John Stachurski                                              | November 15 2022  | QuantEcon Lab (Copland 1130)                            |
@@ -83,8 +83,10 @@ Email Shu Hu ([shu.hu@anu.edu.au](mailto:shu.hu@anu.edu.au)) if you are interest
 | [Jingni Yang](https://sites.google.com/site/jingniyangorange/home) |
 | [Zeming Wang](https://rse.anu.edu.au/about/staff-directory/zeming-wang) |
 | [Akshay Shanker](https://github.com/akshayshanker)           |
-| [Esben Scriver Andersen](https://cbe.anu.edu.au/about/staff-directory/esben-scriver-andersen) |
+| [Dan Liu](https://rse.anu.edu.au/about/staff-directory/dan-liu) |
+| [Humphrey Yang](https://github.com/HumphreyYang)             |
 | [Jingbo Wang](https://nci.org.au/research/people/dr-jingbo-wang) |
+| [Esben Scriver Andersen](https://cbe.anu.edu.au/about/staff-directory/esben-scriver-andersen) |
 |                                                              |
 
 
