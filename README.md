@@ -1,5 +1,6 @@
 # QuantEcon Lunch Seminars
 
+Email Esben Scriver Andersen ([esbenscriver.andersen@anu.edu.au](mailto:esbenscriver.andersen@anu.edu.au)) if you are interested in hearing or giving a talk (20-55 minutes) related to any topics of computational economics.
 
 ### Preliminary program
 
@@ -13,6 +14,3 @@
 | week_06 | | Wending Liu | May 19 2023 | Fred Gruen Seminar Room, Level 1, HW Arndt Building 25A |
 | week_07 | | Jiu Lian | May 26 2023 | To be announced |
 |  | | | |  |
-
-
-Email Esben Scriver Andersen ([esbenscriver.andersen@anu.edu.au](mailto:esbenscriver.andersen@anu.edu.au)) if you are interested in hearing or giving a talk (20-55 minutes) related to any topics of computational economics.
