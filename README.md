@@ -4,7 +4,7 @@ Email Esben Scriver Andersen ([esbenscriver.andersen@anu.edu.au](mailto:esbenscr
 
 ### Preliminary program
 
-| Week No. | Topics                                                       | Speakers                                                     | Date              | Venue                                                   |
+| Week No. | Topics                                                       | Speakers                                                     | Date              | Location                                                   |
 | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------- | ------------------------------------------------------- |
 | week_01  | Revealed preferences with preferences differ | Jingni Yang | April 14 2023 | Fred Gruen Seminar Room, Level 1, HW Arndt Building 25A |
 | week_02  | Solving Matching Models | Esben Scriver Andersen | April 21 2023 | To be announced |
