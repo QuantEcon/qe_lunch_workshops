@@ -15,4 +15,4 @@
 |  | | | |  |
 
 
-
+Email Esben Scriver Andersen ([esbenscriver.andersen@anu.edu.au](mailto:esbenscriver.andersen@anu.edu.au)) if you are interested in hearing or giving a talk (20-55 minutes) related to any topics of computational economics.
