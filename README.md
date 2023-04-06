@@ -1,4 +1,4 @@
-# qe_lunch_workshops
+# QuantEcon Lunch Seminars
 
 
 ### Preliminary program
