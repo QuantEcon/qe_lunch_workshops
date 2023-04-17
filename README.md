@@ -1,4 +1,4 @@
-# QuantEcon Lunch Seminars
+# Computational Economics Lunch Seminars
 
 Email Esben Scriver Andersen ([esbenscriver.andersen@anu.edu.au](mailto:esbenscriver.andersen@anu.edu.au)) if you are interested in hearing or giving a talk of 30-60 minutes related to any topics of computational economics.
 
