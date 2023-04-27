@@ -1,5 +1,7 @@
 # Computational Economics Lunch Workshop
 
+The Workshop will take place every Friday 12-13pm.
+
 Email Esben Scriver Andersen ([esbenscriver.andersen@anu.edu.au](mailto:esbenscriver.andersen@anu.edu.au)) if you are interested in hearing or giving a talk of 30-60 minutes related to any topics of computational economics.
 
 ### Schedule
