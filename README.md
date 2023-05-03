@@ -13,6 +13,6 @@ Email Esben Scriver Andersen ([esbenscriver.andersen@anu.edu.au](mailto:esbenscr
 | week_03 | AI pair programming | Aakash Gupta Choudhury | April 28 2023 | Fred Gruen Seminar Room, Level 1, HW Arndt Building 25A |
 | week_04 | Investigating effective algorithms for solving heterogeneous-agent models | Shu Hu | May 5 2023 | Tutorial room 3, Level 0, HW Arndt Building 25A |
 | week_05 | Deep learning | Hengcheng Zhang | May 12 2023 | Fred Gruen Seminar Room, Level 1, HW Arndt Building 25A |
-| week_06 | Using the Sequence-Space Jacobian to Solve and Estimate Heterogeneous-Agent Models | Wending Liu | May 19 2023 | Fred Gruen Seminar Room, Level 1, HW Arndt Building 25A |
+| week_06 | Multidimensional endogenous gridpoint method: Solving triangular dynamic stochastic optimization problems without root-finding operations | Wending Liu | May 19 2023 | Fred Gruen Seminar Room, Level 1, HW Arndt Building 25A |
 | week_07 | From Fortran to Python | Jiu Lian | May 26 2023 | Tutorial room 3, Level 0, HW Arndt Building 25A |
 |  | | | |  |
