@@ -16,7 +16,7 @@ Email Esben Scriver Andersen ([esbenscriver.andersen@anu.edu.au](mailto:esbenscr
 | week_06 | Multidimensional endogenous gridpoint method: Solving triangular dynamic stochastic optimization problems without root-finding operations | Wending Liu | May 19 2023 | Fred Gruen Seminar Room, Level 1, HW Arndt Building 25A |
 | week_09 | From Fortran to Python | Jiu Lian | June 9 | Fred Gruen Seminar Room, Level 1, HW Arndt Building 25A |
 | week_10 to week_14 | Winter Break |  |  |  |
-| week_15 | | | July 21 | Fred Gruen Seminar Room, Level 1, HW Arndt Building 25A |
+| week_15 | | John Stachurski | July 21 | Fred Gruen Seminar Room, Level 1, HW Arndt Building 25A |
 | week_16 | | | July 28 | Same as above |
 | week_17 | | | Aug. 4 | Same as above |
 | week_18 | | | Aug. 11 | Same as above |
