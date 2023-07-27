@@ -17,7 +17,7 @@ Email Esben Scriver Andersen ([esbenscriver.andersen@anu.edu.au](mailto:esbenscr
 | week_09 | From Fortran to Python | Jiu Lian | June 9 | Fred Gruen Seminar Room, Level 1, HW Arndt Building 25A |
 | week_10 to week_14 | Winter Break |  |  |  |
 | week_15 | Completely abstract dynamic programming | John Stachurski | July 21 | Fred Gruen Seminar Room, Level 1, HW Arndt Building 25A |
-| week_16 | TBA | TBA | July 28 | Same as above |
+| week_16 | Harold Zurcher as a Q-learner | Chienhsiang Yeh | July 28 | Same as above |
 | week_17 | Constraint-Based Causal Discovery in Python | Nik Chow | Aug. 4 | Same as above |
 | week_18 | Lasso | Jianhua Mei | Aug. 11 | Same as above |
 | week_19 | | | Aug. 18 | Same as above |
