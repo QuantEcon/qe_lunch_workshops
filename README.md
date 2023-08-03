@@ -21,13 +21,13 @@ Email Esben Scriver Andersen ([esbenscriver.andersen@anu.edu.au](mailto:esbenscr
 | week_17 | Constraint-Based Causal Discovery in Python | Nik Chow | Aug. 4 | Same as above |
 | week_18 | Lasso | Jianhua Mei | Aug. 11 | Same as above |
 | week_19 | TBA | TBA | Aug. 18 | TBA |
-| week_20 | Dynamic programming | Sreehari Sreedhar | Aug. 25 | Same as above |
+| week_20 | On Beach-houses and Savings: Exploring The Distributional Impacts of Stage 3 Tax Cuts | Sreehari Sreedhar | Aug. 25 | Same as above |
 | week_21 | | | Sep. 1 | Same as above |
 | week_22 | | | Sep. 8 | Same as above |
 | week_23 | | | Sep. 15 | Same as above |
 | week_24 | | | Sep. 22 | Same as above |
 | week_25 | | | Sep. 29 | Same as above |
-| week_26 | | Kazuki Tomioka | Oct. 6 | Same as above |
+| week_26 | TBA | Kazuki Tomioka | Oct. 6 | Same as above |
 | week_27 | | | Oct. 13 | Same as above |
 | week_28 | | | Oct. 20 | Same as above |
 | week_29 | | | Oct. 27 | Same as above |
