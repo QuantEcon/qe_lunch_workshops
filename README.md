@@ -19,7 +19,7 @@ Email Esben Scriver Andersen ([esbenscriver.andersen@anu.edu.au](mailto:esbenscr
 | week_15 | Completely abstract dynamic programming | John Stachurski | July 21 | Fred Gruen Seminar Room, Level 1, HW Arndt Building 25A |
 | week_16 | Harold Zurcher as a Q-learner | Chienhsiang Yeh | July 28 | Same as above |
 | week_17 | Constraint-Based Causal Discovery in Python | Nik Chow | Aug. 4 | Same as above |
-| week_18 | Lasso | Jianhua Mei | Aug. 11 | Same as above |
+| week_18 | Model-Free Option Pricing | Jianhua Mei | Aug. 11 | Same as above |
 | week_19 | Postponed | Postponed | Aug. 18 | Venue Unavailable |
 | week_20 | On Beach-houses and Savings: Exploring The Distributional Impacts of Stage 3 Tax Cuts | Sreehari Sreedhar | Aug. 25 | Fred Gruen Seminar Room, Level 1, HW Arndt Building 25A |
 | week_21 | | | Sep. 1 | Same as above |
