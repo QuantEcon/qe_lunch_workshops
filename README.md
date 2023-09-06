@@ -24,7 +24,7 @@ Email Esben Scriver Andersen ([esbenscriver.andersen@anu.edu.au](mailto:esbenscr
 | week_20 | On Beach-houses and Savings: Exploring The Distributional Impacts of Stage 3 Tax Cuts | Sreehari Sreedhar | Aug. 25 | Fred Gruen Seminar Room, Level 1, HW Arndt Building 25A |
 | week_21 | Decomposing Income Distribution Dynamics using Data-driven Spectral Analysis | Humphrey Yang | Sep. 1 | Same as above |
 | week_22 | | | Sep. 8 | Same as above |
-| week_23 | | | Sep. 15 | Same as above |
+| week_23 | Solving and estimating life-cycle models in JAX | Esben Scriver Andersen | Sep. 15 | Same as above |
 | week_24 | | | Sep. 22 | Same as above |
 | week_25 | | | Sep. 29 | Same as above |
 | week_26 | TBA | Kazuki Tomioka | Oct. 6 | Same as above |
