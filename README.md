@@ -27,11 +27,11 @@ Email Esben Scriver Andersen ([esbenscriver.andersen@anu.edu.au](mailto:esbenscr
 | week_23 | Solving and estimating life-cycle models in JAX | Esben Scriver Andersen | Sep. 15 | Same as above |
 | week_24 | | | Sep. 22 | Same as above |
 | week_25 | | | Sep. 29 | Same as above |
-| week_26 | TBA | Kazuki Tomioka | Oct. 6 | Same as above |
+| week_26 |  |  | Oct. 6 | Same as above |
 | week_27 | | | Oct. 13 | Same as above |
-| week_28 | | | Oct. 20 | Same as above |
-| week_29 | | | Oct. 27 | Same as above |
-| week_30 | | | Nov. 3rd | Same as above |
+| week_28 |  |  | Oct. 20 | Same as above |
+| week_29 | TBA | Kazuki Tomioka | Oct. 27 | Same as above |
+| week_30 | TBA | Shu Hu | Nov. 3rd | Same as above |
 | week_31 | | | Nov. 10th | Same as above |
 | week_32 | | | Nov. 17th | Same as above |
 | week_33 | | | Nov. 24th | Same as above |
