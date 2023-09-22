@@ -32,7 +32,7 @@ Email Esben Scriver Andersen ([esbenscriver.andersen@anu.edu.au](mailto:esbenscr
 | week_28 |  |  | Oct. 20 | Same as above |
 | week_29 | TBA | Kazuki Tomioka | Oct. 27 | Same as above |
 | week_30 | TBA | Shu Hu | Nov. 3rd | Same as above |
-| week_31 | | | Nov. 10th | Same as above |
+| week_31 | An overlapping generational life-cycle model for marriage, divorce, and fertility | Esben Scriver Andersen | Nov. 10th | Same as above |
 | week_32 | | | Nov. 17th | Same as above |
 | week_33 | | | Nov. 24th | Same as above |
 | week_34 | | | Dec. 1st | Same as above |
