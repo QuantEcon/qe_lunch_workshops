@@ -31,10 +31,10 @@ Email Esben Scriver Andersen ([esbenscriver.andersen@anu.edu.au](mailto:esbenscr
 | week_27 | | | Oct. 13 | Same as above |
 | week_28 |  |  | Oct. 20 | Same as above |
 | week_29 |  |  | Oct. 27 | Same as above |
-| week_30 | TBA | Kazuki Tomioka | Nov. 3rd | Same as above |
+| week_30 | Life-cycle implications of latent health type learning | Kazuki Tomioka | Nov. 3rd | Same as above |
 | week_31 | An overlapping generational life-cycle model for marriage, divorce, and fertility | Esben Scriver Andersen | Nov. 10th | Same as above |
-| week_32 | | | Nov. 17th | Same as above |
-| week_33 | | | Nov. 24th | Same as above |
+| week_32 | TBA | Shu Hu | Nov. 17th | Same as above |
+| week_33 | TBA | Nikolai Chow | Nov. 24th | Same as above |
 | week_34 | | | Dec. 1st | Same as above |
 | | | | | |
 | | | | | |
