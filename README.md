@@ -33,7 +33,7 @@ Email Esben Scriver Andersen ([esbenscriver.andersen@anu.edu.au](mailto:esbenscr
 | week_29 |  |  | Oct. 27 | Same as above |
 | week_30 | Life-cycle implications of latent health type learning | Kazuki Tomioka | Nov. 3rd | Same as above |
 | week_31 | An overlapping generational life-cycle model for marriage, divorce, and fertility | Esben Scriver Andersen | Nov. 10th | Same as above |
-| week_32 | TBA | Shu Hu | Nov. 17th | Same as above |
+| week_32 | Top inequality of wealth and consumption in heterogeneous agent models | Shu Hu | Nov. 17th | Same as above |
 | week_33 | TBA | Nikolai Chow | Nov. 24th | Same as above |
 | week_34 | | | Dec. 1st | Same as above |
 | | | | | |
