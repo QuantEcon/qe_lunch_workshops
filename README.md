@@ -8,8 +8,8 @@ Email Esben Scriver Andersen ([esbenscriver.andersen@anu.edu.au](mailto:esbenscr
 
 | Week No. | Topic                                                       | Speaker                                                     | Date              | Location                                                   |
 | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------- | ------------------------------------------------------- |
-| week_01  | Revealed preferences when preferences differ | Jingni Yang | April 14 2023 | Fred Gruen Seminar Room, Level 1, HW Arndt Building 25A |
-| week_02  | Numerical methods for solving matching models | Esben Scriver Andersen | April 21 2023 | Tutorial room 3, Level 0, HW Arndt Building 25A |
+| week_01 | Revealed preferences when preferences differ | Jingni Yang | April 14 2023 | Fred Gruen Seminar Room, Level 1, HW Arndt Building 25A |
+| week_02 | Numerical methods for solving matching models | Esben Scriver Andersen | April 21 2023 | Tutorial room 3, Level 0, HW Arndt Building 25A |
 | week_03 | AI pair programming | Aakash Gupta Choudhury | April 28 2023 | Fred Gruen Seminar Room, Level 1, HW Arndt Building 25A |
 | week_04 | [Investigating effective algorithms for solving heterogeneous-agent models](https://jax.quantecon.org/ifp_egm.html) | Shu Hu | May 5 2023 | Tutorial room 3, Level 0, HW Arndt Building 25A |
 | week_05 | [Deep learning](https://github.com/HengchengZhang/qe_talk_ddns) | Hengcheng Zhang | May 12 2023 | Fred Gruen Seminar Room, Level 1, HW Arndt Building 25A |
@@ -23,19 +23,19 @@ Email Esben Scriver Andersen ([esbenscriver.andersen@anu.edu.au](mailto:esbenscr
 | week_19 | Postponed | Postponed | Aug. 18 | Venue Unavailable |
 | week_20 | On Beach-houses and Savings: Exploring The Distributional Impacts of Stage 3 Tax Cuts | Sreehari Sreedhar | Aug. 25 | Fred Gruen Seminar Room, Level 1, HW Arndt Building 25A |
 | week_21 | Decomposing Income Distribution Dynamics using Data-driven Spectral Analysis | Humphrey Yang | Sep. 1 | Same as above |
-| week_22 | | | Sep. 8 | Same as above |
-| week_23 | Solving and estimating life-cycle models in JAX | Esben Scriver Andersen | Sep. 15 | Same as above |
-| week_24 | | | Sep. 22 | Same as above |
-| week_25 | | | Sep. 29 | Same as above |
-| week_26 |  |  | Oct. 6 | Same as above |
-| week_27 | | | Oct. 13 | Same as above |
-| week_28 |  |  | Oct. 20 | Same as above |
-| week_29 |  |  | Oct. 27 | Same as above |
+| week_22 |  | | Sep. 8 | Same as above |
+| week_23 |  Solving and estimating life-cycle models in JAX | Esben Scriver Andersen | Sep. 15 | Same as above |
+| week_24 |  | | Sep. 22 | Same as above |
+| week_25 |  | | Sep. 29 | Same as above |
+| week_26 |  | | Oct. 6 | Same as above |
+| week_27 |  | | Oct. 13 | Same as above |
+| week_28 |  | | Oct. 20 | Same as above |
+| week_29 |  | | Oct. 27 | Same as above |
 | week_30 | Life-cycle implications of latent health type learning | Kazuki Tomioka | Nov. 3rd | Same as above |
 | week_31 | An overlapping generational life-cycle model for marriage, divorce, and fertility | Esben Scriver Andersen | Nov. 10th | Same as above |
 | week_32 | Top inequality of wealth and consumption in heterogeneous agent models | Shu Hu | Nov. 17th | Same as above |
-| week_33 | TBA | Nikolai Chow | Nov. 24th | Same as above |
-| week_34 | | | Dec. 1st | Same as above |
+| week_33 | Postponed | | | |
+| week_34 | TBA | Nikolai Chow | Nov. 24th | Same as above |
 | | | | | |
 | | | | | |
 | | | | | |
