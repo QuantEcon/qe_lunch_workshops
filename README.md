@@ -31,13 +31,11 @@ Email Esben Scriver Andersen ([esbenscriver.andersen@anu.edu.au](mailto:esbenscr
 | week_27 |  | | Oct. 13 | Same as above |
 | week_28 |  | | Oct. 20 | Same as above |
 | week_29 |  | | Oct. 27 | Same as above |
-| week_30 | Life-cycle implications of latent health type learning | Kazuki Tomioka | Nov. 3rd | Same as above |
-| week_31 | An overlapping generational life-cycle model for marriage, divorce, and fertility | Esben Scriver Andersen | Nov. 10th | Same as above |
-| week_32 | Top inequality of wealth and consumption in heterogeneous agent models | Shu Hu | Postponed | Postponed |
-| week_33 | | | Nov. 24th | Same as above |
-| week_34 | | | Nov. 24th | Same as above |
-| week_35 | Default Options in Decision-Making under Imprecise Information | Nikolai Chow | Dec. 8th  | Same as above |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
+| week_30 | Life-cycle implications of latent health type learning | Kazuki Tomioka | Nov. 3 | Same as above |
+| week_31 | An overlapping generational life-cycle model for marriage, divorce, and fertility | Esben Scriver Andersen | Nov. 10 | Same as above |
+| week_32 |  |  | Nov. 17 | Same as above |
+| week_33 | Top inequality of wealth and consumption in heterogeneous agent models | Shu Hu | Nov. 22 | Same as above |
+| week_34 | | | Dec. 1 | Same as above |
+| week_35 |  |  | Dec. 8  | Same as above |
+| week_36 | Default Options in Decision-Making under Imprecise Information | Nikolai Chow | Dec. 15 | Same as above |
+|  | Christmas & new year break | | | |
