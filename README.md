@@ -8,8 +8,8 @@ Email Esben Scriver Andersen ([esbenscriver.andersen@anu.edu.au](mailto:esbenscr
 
 | Week No. | Topic                                                       | Speaker                                                     | Date              | Location                                                   |
 | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------- | ------------------------------------------------------- |
-| week_01 | Classical (not Simulated!) Method of Moment Estimation of Life-Cycle Models | Robert Kirkby | April 19, 2024 | Fred Gruen Seminar Room, Level 1, HW Arndt Building 25A |
-| week_02  |       |         |      | The same as above                                       |
+| week_01 | Classical (not Simulated!) Method of Moment Estimation of Life-Cycle Models | Robert Kirkby | 19 April 2024 | Fred Gruen Seminar Room, Level 1, HW Arndt Building 25A |
+| week_02  |       |         |  12 June 2024    | The same as above                                       |
 | week_03 |       |         |      | The same as above |
 | week_04 | | | | The same as above |
 | week_05 | | | | The same as above |
