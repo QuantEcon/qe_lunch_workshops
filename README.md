@@ -34,6 +34,6 @@ Email Esben Scriver Andersen ([esbenscriver.andersen@anu.edu.au](mailto:esbenscr
 | week_19 | | | 1 November | The same as above |
 | week_20 | | | 8 November | The same as above |
 | week_21 | | | 15 November | The same as above |
-| week_22 | | | 22 November | The same as above |
-| week_23 | | | 29 November | The same as above |
+| week_22 | |  | 22 November | The same as above |
+| week_23 | | Esben Scriver Andersen | 29 November | The same as above |
 | | End of year break & reflection (but we can arrange sessions if anyone wants to present before Christmas) | | | |
