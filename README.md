@@ -26,7 +26,7 @@ Email Esben Scriver Andersen ([esbenscriver.andersen@anu.edu.au](mailto:esbenscr
 | week_11 |  | | 6 September | The same as above |
 | week_12 |  | | 13 September | The same as above |
 | week_13 |  | | 20 September | The same as above |
-| week_14 |  | | 27 September | The same as above |
+| week_14 |  | Fedor Iskhakov | 27 September | The same as above |
 | week_15 |  | | 4 October | The same as above |
 | week_16 | | | 11 October | The same as above |
 | week_17 | | | 18 October | The same as above |
