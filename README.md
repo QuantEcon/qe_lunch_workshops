@@ -11,6 +11,10 @@ Email Esben Scriver Andersen ([esbenscriver.andersen@anu.edu.au](mailto:esbenscr
 | week_01 | Classical (not Simulated!) Method of Moment Estimation of Life-Cycle Models | Robert Kirkby | 19 April 2024 | Fred Gruen Seminar Room, Level 1, HW Arndt Building 25A |
 | week_02  | Estimating Price Elasticities with Text and Images | Jan Teichert-Kluge |  (3:30 -- 4:30 pm) 11 June 2024    | The same as above                                       |
 |  | Winter break (but we can arrange sessions if anyone wants to present) | | 17 July - 5 July | The same as above |
+|  |  | John Stachurski | TBA | The same as above |
+|  |  | Jingni Yang | TBA | The same as above |
+|  |  |  |  |  |
+|  |  |  |  |  |
 | week_03 |       |         | 12 July | The same as above |
 | week_04 | | | 19 July | The same as above |
 | week_05 |  | | 26 July | The same as above |
