@@ -13,7 +13,7 @@ Email Esben Scriver Andersen ([esbenscriver.andersen@anu.edu.au](mailto:esbenscr
 |  | Winter break (but we can arrange sessions if anyone wants to present) | | 17 July - 5 July | The same as above |
 |  |  | John Stachurski | TBA | The same as above |
 |  |  | Jingni Yang | TBA | The same as above |
-|  |  |  |  |  |
+|  |  | Akshay Shanker | TBA |  |
 |  |  |  |  |  |
 | week_03 |       |         | 12 July | The same as above |
 | week_04 | | | 19 July | The same as above |
