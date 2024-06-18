@@ -14,7 +14,8 @@ Email Esben Scriver Andersen ([esbenscriver.andersen@anu.edu.au](mailto:esbenscr
 |  |  | John Stachurski | TBA | The same as above |
 |  |  | Jingni Yang | TBA | The same as above |
 |  |  | Akshay Shanker | TBA | The same as above |
-|  |  |  |  |  |
+|  |  | Shu Hu | TBA | The same as above |
+| | |  |  |  |
 | week_03 | | | 19 July | The same as above |
 | week_04 |  | | 26 July | The same as above |
 | week_05 |  | | 2 August | The same as above |
