@@ -16,7 +16,6 @@ Email Esben Scriver Andersen ([esbenscriver.andersen@anu.edu.au](mailto:esbenscr
 |  |  | Akshay Shanker | TBA | The same as above |
 |  |  | Shu Hu | TBA | The same as above |
 | | |  |  |  |
-| week_03 | | | 19 July | The same as above |
 | week_03 |  | | 26 July | The same as above |
 | week_04 |  | | 2 August | The same as above |
 | week_05 |  | | 9 August | The same as above |
