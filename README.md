@@ -12,7 +12,6 @@ Email Esben Scriver Andersen ([esbenscriver.andersen@anu.edu.au](mailto:esbenscr
 | week_02  | Estimating Price Elasticities with Text and Images | Jan Teichert-Kluge |  (3:30 -- 4:30 pm) 11 June 2024    | The same as above                                       |
 |  | Winter break (but we can arrange sessions if anyone wants to present) | | 17 July - 5 July | The same as above |
 |  |  | John Stachurski | TBA | The same as above |
-|  |  | Jingni Yang | TBA | The same as above |
 |  |  | Akshay Shanker | TBA | The same as above |
 |  |  | Shu Hu | TBA | The same as above |
 | | |  |  |  |
@@ -24,7 +23,7 @@ Email Esben Scriver Andersen ([esbenscriver.andersen@anu.edu.au](mailto:esbenscr
 | week_08 |  | | 30 August | The same as above |
 | week_09 |  | | 6 September | The same as above |
 | week_10 |  | | 13 September | The same as above |
-| week_11 |  | | 20 September | The same as above |
+| week_11 | Quadratic expected utility | Jingni Yang | 20 September | The same as above |
 | week_12 |  | Fedor Iskhakov | 27 September | The same as above |
 | week_13 |  | | 4 October | The same as above |
 | week_14 | | | 11 October | The same as above |
